@@ -17,4 +17,4 @@
 # 📊 Github Statistics
 
 &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mAtTBaraldo&theme=dark&hide_border=false&layout=compact">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fosba&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mAtTBaraldo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> </p>
